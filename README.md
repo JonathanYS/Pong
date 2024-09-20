@@ -1,5 +1,6 @@
 # Pong
  Pong written in Python with pygame.
+ 
  TOC - Time Of Completion = 2.5 hours.
 
  Special Credits for: Kilua Boy (Music), captaincrunch80 (Sound Effect) and Google Fonts (Tiny5 font).
